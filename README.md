@@ -1,12 +1,19 @@
 
 ## Ivy \ They/them
 
-💬 Socials
+### 💬 Socials
+
 ![Twitter](https://img.shields.io/twitter/follow/opcivy?color=ba1e1f&logoColor=ba1e1f&style=social)
+
 ![Twitch](https://img.shields.io/twitch/status/opcivy?logoColor=ba1e1f&style=social)
+
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UCnYEowVnirews9iVtd94bXg?logoColor=ba1e1f&style=social)
 
 i'll have to finish this later, i'm way too tired right now haha
+
+### 💻 Languages
+
+### 📃 Projects
 
 <!--
 add:
