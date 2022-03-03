@@ -5,8 +5,6 @@
 
 ![https://twitter.com/opcivy](https://img.shields.io/twitter/follow/opcivy?color=ba1e1f&logoColor=ba1e1f&style=social)
 
-![twitch.tv/opcivy](https://img.shields.io/twitch/status/opcivy?logoColor=ba1e1f&style=social)
-
 ![https://www.youtube.com/channel/UCnYEowVnirews9iVtd94bXg](https://img.shields.io/youtube/channel/subscribers/UCnYEowVnirews9iVtd94bXg?logoColor=ba1e1f&style=social)
 
 i'll have to finish this later, i'm way too tired right now haha
