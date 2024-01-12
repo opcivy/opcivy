@@ -3,8 +3,8 @@
 
 ### 💻 Languages
 
-HTML, CSS, JS, JQuery, Python, Rust, Lua
+HTML, CSS, JS, , Python
 
 ### 📃 Projects
 
-None at the moment.
+none at the moment :3
