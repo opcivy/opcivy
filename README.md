@@ -3,9 +3,8 @@
 
 ### 💻 Languages
 
-HTML, CSS, JS, Python
+IM SO ASS!!!
 
 ### 📃 Projects
 
-working on my [rhythm game stats bot](https://github.com/opcivy/rg-rating-bot)
-one other secret project i'm working on, but won't announce until it's ready :3
+working on NOTHING!!!!
